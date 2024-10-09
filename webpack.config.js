@@ -1,6 +1,6 @@
 module.exports = {
   mode: process.env.NODE_ENV,
-  entry: './src/LoadingOverlay.js',
+  // entry: './src/LoadingOverlay.js',
   output: {
     library: 'LoadingOverlay',
     libraryTarget: 'umd'
